@@ -1,4 +1,5 @@
-# world-map-starterkit
+# rC3 Cellar
 
-This repositor is intended to give you an overview over the features in the world as well as a good starting point for creating your own maps! Feel free to use and change them!
+This repository contains a part, intended to be part of the FlipDot Assembly at remoteC3 2020.
 
+https://test.visit.at.wa-test.rc3.cccv.de/_/global/github.com/ks_htk/rc3-cellar/space.json
